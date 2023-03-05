@@ -1,4 +1,4 @@
-# Repositorio Git para os participantes do Projeto Robotica Lego 2023 - IFRO
+# Repositorio Git para os participantes do Projeto Robotica Lego 2023 - IFRO - Campus - Ji-Paraná
 
 
 
